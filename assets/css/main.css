@@ -257,19 +257,6 @@
   .client .slider-item { min-width: calc(25% - 22.5px); }
 
 
-
-  /**
-   * TESTIMONIALS
-   */
-
-  .testi .slider-item { min-width: calc(50% - 15px); }
-
-}
-
-
-
-
-
 /**
  * responsive for large than 992px screen
  */
